@@ -5,6 +5,8 @@
 #include <stddef.h>
 #include <vector>
 
+/* This program is a simple simulation of the "Pseudo Least Recently Used"
+   cache replacement policy. */
 
 using namespace std;
 
